@@ -1,0 +1,39 @@
+.body-custom {
+    background-color: #363636
+    ; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+.body-custom{
+ font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+				font-size:13px;
+			}
+			ul {
+				margin:0;padding:0;
+			}
+			li {
+				list-style:none;
+			     display: inline-block
+            }	
+			li a {
+				text-decoration:none;
+				color:#FFF;
+				background-color:#09C;
+				margin-bottom:1px;
+				padding:5px 15px;
+			 margin-left: -3px;
+            }
+			li a:hover {
+				background-color:#6CF
+      }
+      .container {
+          width: 50%;
+          position: relative;
+        }
+        label {display:block;}
+        input {width: 50%;}
+        input,  button {padding: 10px;}
+        button {
+          position: absolute;   
+          top: 0; 
+          right: 20;
+        }
