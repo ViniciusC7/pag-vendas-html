@@ -1,5 +1,5 @@
 .body-custom {
-    background-color: #363636
+    background-color: #130c22
     ; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
@@ -22,9 +22,7 @@
 				padding:5px 15px;
 			 margin-left: -3px;
             }
-			li a:hover {
-				background-color:#6CF
-      }
+	
       .container {
           width: 50%;
           position: relative;
