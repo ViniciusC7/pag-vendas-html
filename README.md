@@ -1,5 +1,5 @@
 *Senac* - *Técnico em Informática para Internet*
-## Módulo A - Planejar e documentar aplicações web
+## Planejar e documentar aplicações web
 
 
 **Contexto**
